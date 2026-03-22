@@ -1,6 +1,6 @@
 # Zabbix Agent Interactive Audit Tool 🕵️‍♂️
 
-This script (`zabbix_audit.sh`) provides a professional, interactive interface to verify connectivity and authentication between a Zabbix Server/Proxy and a Zabbix Agent.
+This script (`Zabbix-agent-conection-test.sh`) provides a professional, interactive interface to verify connectivity and authentication between a Zabbix Server/Proxy and a Zabbix Agent.
 
 ## 🌟 Key Features
 * **Interactive Data Entry**: Prompts for Agent IP, PSK Identity, and PSK file paths with sensible defaults.
