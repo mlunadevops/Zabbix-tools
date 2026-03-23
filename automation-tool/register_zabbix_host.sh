@@ -62,10 +62,10 @@ echo -e "------------------------------------"
 read -p "Enter Template ID from the list above [10351]: " TEMPLATE_ID
 TEMPLATE_ID=${TEMPLATE_ID:-10351}
 
-read -p "Enter Host Name [SQLAPI00]: " HOST_NAME
+read -p "Enter Host Name [SQLAPITEST]: " HOST_NAME
 HOST_NAME=${HOST_NAME:-SQLAPI00}
 
-read -p "Enter Agent IP [172.16.20.233]: " AGENT_IP
+read -p "Enter Agent IP [172.16.0.2]: " AGENT_IP
 AGENT_IP=${AGENT_IP:-172.16.20.233}
 
 read -p "Enter PSK Identity [$HOST_NAME]: " PSK_IDENTITY
