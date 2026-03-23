@@ -24,7 +24,8 @@ The `register_zabbix_host.sh` script is an advanced automation utility designed 
 3) Register host agent name:
 ![Zabbix Host Registration Demo](./images/3RegisterHostagentname.png)
 4) Register the IP and PSKI ID or agent:
-5) 
+![Zabbix Host Registration Demo](./images/3RegisterHostagentname.png)
+6) 
 ```bash
 export ZABBIX_URL="http://your-zabbix-url/api_jsonrpc.php"
 export ZABBIX_TOKEN="your_private_token"
