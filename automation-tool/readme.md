@@ -20,5 +20,4 @@ The `register_zabbix_host.sh` script is an advanced automation utility designed 
 export ZABBIX_URL="http://your-zabbix-url/api_jsonrpc.php"
 export ZABBIX_TOKEN="your_private_token"
 ./register_zabbix_host.sh
-```
-```
+
