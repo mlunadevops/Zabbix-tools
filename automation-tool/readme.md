@@ -21,7 +21,9 @@ The `register_zabbix_host.sh` script is an advanced automation utility designed 
 ![Zabbix Host Registration Demo](./images/1RegisterTemplate.png)
 2) Enter Group ID from zabbix home groups:
 ![Zabbix Host Registration Demo](./images/2RegisterZabbixGroup.png)
-
+3) Register host agent name:
+![Zabbix Host Registration Demo](./images/3RegisterHostagentname.png)
+4) 
 ```bash
 export ZABBIX_URL="http://your-zabbix-url/api_jsonrpc.php"
 export ZABBIX_TOKEN="your_private_token"
