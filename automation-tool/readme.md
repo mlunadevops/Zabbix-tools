@@ -24,7 +24,6 @@ The `register_zabbix_host.sh` script is an advanced automation utility designed 
 3) Register host agent name:
 ![Zabbix Host Registration Demo](./images/3RegisterHostagentname.png)
 4) Register the IP and PSKI ID or agent:
-![Zabbix Host Registration Demo](./images/3RegisterHostagentname.png)
 ![Zabbix Host Registration Demo](./images/4RegisterIPPSKIdentity.png)
 
 ```bash
