@@ -17,7 +17,7 @@ The `register_zabbix_host.sh` script is an advanced automation utility designed 
 **Do not hardcode your secrets!** Use environment variables to run the script safely:
 
 ****
-![Zabbix Host Registration Demo](./images/pruebas.png)
+![Zabbix Host Registration Demo](./images/1RegisterTemplate.png)
 
 
 ```bash
