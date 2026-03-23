@@ -16,6 +16,8 @@ The `register_zabbix_host.sh` script is an advanced automation utility designed 
 ### 🔐 Security Best Practice
 **Do not hardcode your secrets!** Use environment variables to run the script safely:
 
+./register_zabbix_host.sh
+
 ```bash
 export ZABBIX_URL="http://your-zabbix-url/api_jsonrpc.php"
 export ZABBIX_TOKEN="your_private_token"
